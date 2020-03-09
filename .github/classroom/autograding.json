@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Cat Test",
+      "setup": "",
+      "run": "run",
+      "input": "cat",
+      "output": "cat",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
