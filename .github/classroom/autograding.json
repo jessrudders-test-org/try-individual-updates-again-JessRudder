@@ -1,11 +1,21 @@
 {
   "tests": [
     {
-      "name": "Cat Test",
+      "name": "Cat Testing Is Funny with Production",
       "setup": "",
       "run": "run",
       "input": "cat",
       "output": "cat",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "dog test",
+      "setup": "",
+      "run": "run",
+      "input": "dog",
+      "output": "dog",
       "comparison": "included",
       "timeout": 10,
       "points": 5
